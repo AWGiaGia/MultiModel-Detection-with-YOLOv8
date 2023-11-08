@@ -1,0 +1,9 @@
+names:
+- people
+- people1
+- people2
+- people3
+nc: 4
+test: F:/RSEdge/yolo_source_data\images\test
+train: F:/RSEdge/yolo_source_data\images\train
+val: F:/RSEdge/yolo_source_data\images\val
